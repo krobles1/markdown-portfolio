@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 01-name.md %}
+{% include 01-korey1.md %}
 
 <br>
 
-{% include 02-image.md %}
+{% include 02-😀.md %}
 
 <br>
 
